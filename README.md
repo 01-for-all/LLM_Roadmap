@@ -1,4 +1,5 @@
-# LLM_Roadmap
+# LLM ROADMAP SHORT LIST: 
+
 If you want to get started in learning about LLMs, here is a easy-to-follow roadmap, I would recommend 
 
 ###📍 Step 1: Fundamentals of Machine Learning & Deep Learning
